@@ -13,12 +13,12 @@ esse repositório contém os exercícios extras propostos no *Curso de iniciaç�
 
 apresentação, sobre o Curso, introdução a Go, tipos de dados básicos, tipos compostos, condicionais, laços de Repetição
 
-dia | tema abordado | exercícios | soluções
---- | ------------- | ---------- | --------
-🗂 [01](./primeiro_dia) | apresentação, sobre o Curso, introdução a Go, tipos de dados básicos, tipos compostos, condicionais, laços de Repetição | ✔️ | ✔️ 
+dia | tema abordado | concluído
+--- | ------------- | ----------
+🗂 [01](./primeiro_dia) | apresentação, sobre o Curso, introdução a Go, tipos de dados básicos, tipos compostos, condicionais, laços de Repetição | ✔️
 🗂 [02](./segundo_dia) | structs, condicionais, laçoes de repetição, git, funções e métodos | ✔️ | ✔️ 
-🗂 [03](./terceiro_dia) | - | ⏳ | ⏳ 
-🗂 [04](./quarto_dia) | - | ⏳ | ⏳ 
+🗂 [03](./terceiro_dia) | - | ⏳
+🗂 [04](./quarto_dia) | - | ⏳
 
 ## Língua
 
