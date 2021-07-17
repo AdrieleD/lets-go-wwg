@@ -16,7 +16,7 @@ apresentação, sobre o Curso, introdução a Go, tipos de dados básicos, tipos
 dia | tema abordado | concluído
 --- | ------------- | ----------
 🗂 [01](./primeiro_dia) | apresentação, sobre o Curso, introdução a Go, tipos de dados básicos, tipos compostos, condicionais, laços de Repetição | ✔️
-🗂 [02](./segundo_dia) | structs, condicionais, laçoes de repetição, git, funções e métodos | ✔️ | ✔️ 
+🗂 [02](./segundo_dia) | structs, condicionais, laçoes de repetição, git, funções e métodos | ✔️
 🗂 [03](./terceiro_dia) | - | ⏳
 🗂 [04](./quarto_dia) | - | ⏳
 
